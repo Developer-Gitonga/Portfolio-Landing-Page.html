@@ -1,0 +1,19 @@
+.container{
+color:green;
+font-family:courier;
+font-size:100%;
+border:4px solid blue;
+padding:20px;
+margin:50px;
+}
+
+body {
+     background-color:powderblue;
+     text-align:center;
+    }
+
+   h3 {
+      color:blue;
+      font-family:courier;
+      font-size:250%;
+      text-align:center;
